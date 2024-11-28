@@ -12,10 +12,10 @@ body {
     .container {
       text-align: center;
       background: white;
-      padding: 20px;
-      border-radius: 10px;
+      padding: 23px;
+      border-radius: 13px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
-      width: 300px;
+      width: 303px;
     }
     .question {
       font-size: 18px;
