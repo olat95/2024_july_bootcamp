@@ -12,10 +12,17 @@ body {
     .container {
       text-align: center;
       background: white;
+<<<<<<< HEAD
       padding: 23px;
       border-radius: 13px;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
       width: 303px;
+=======
+      padding: 25px;
+      border-radius: 15px;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      width: 310px;
+>>>>>>> fixit
     }
     .question {
       font-size: 18px;
