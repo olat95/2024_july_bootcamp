@@ -1,0 +1,2 @@
+provider
+{AWS}
